@@ -1,0 +1,11 @@
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+F:\Visual stidio 2019\PROJECTS\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
